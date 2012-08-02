@@ -7,7 +7,7 @@ version           "0.2.1"
 
 depends "elasticsearch"
 depends "java"
-depends "mongodb"
+depends "nistude_mongodb"
 depends "nginx"
 depends "passenger_nginx"
 depends "runit"
